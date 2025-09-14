@@ -1,0 +1,5 @@
+# Archivos de CLion
+.idea/
+
+# Ejecutables de C++
+*.exe
